@@ -1,0 +1,96 @@
+{
+    "GeneralOffsets": {
+        "name": "GeneralOffsets",
+        "constants": [
+            {
+                "name": "dwEntityList",
+                "value": "0x27490864"
+            },
+            {
+                "name": "dwLocalPlayerController",
+                "value": "0x27824320"
+            },
+            {
+                "name": "dwPlantedC4",
+                "value": "0x27953680"
+            },
+            {
+                "name": "dwViewMatrix",
+                "value": "0x27932688"
+            }
+        ]
+    },
+    "PawnOffsets": {
+        "name": "PawnOffsets",
+        "constants": [
+            {
+                "name": "m_ArmorValue",
+                "value": "0x9244"
+            },
+            {
+                "name": "m_bIsDefusing",
+                "value": "0x9194"
+            },
+            {
+                "name": "m_flC4Blow",
+                "value": "0x4032"
+            },
+            {
+                "name": "m_flFlashOverlayAlpha",
+                "value": "0x5120"
+            },
+            {
+                "name": "m_flNextBeep",
+                "value": "0x4028"
+            },
+            {
+                "name": "m_flTimerLength",
+                "value": "0x4040"
+            },
+            {
+                "name": "m_hPlayerPawn",
+                "value": "0x2060"
+            },
+            {
+                "name": "m_iAccount",
+                "value": "0x64"
+            },
+            {
+                "name": "m_iHealth",
+                "value": "0x836"
+            },
+            {
+                "name": "m_iTeamNum",
+                "value": "0x995"
+            },
+            {
+                "name": "m_pClippingWeapon",
+                "value": "0x5024"
+            },
+            {
+                "name": "m_pGameSceneNode",
+                "value": "0x808"
+            },
+            {
+                "name": "m_pInGameMoneyServices",
+                "value": "0x1824"
+            },
+            {
+                "name": "m_sSanitizedPlayerName",
+                "value": "0x1904"
+            },
+            {
+                "name": "m_szName",
+                "value": "0x3360"
+            },
+            {
+                "name": "m_vOldOrigin",
+                "value": "0x4900"
+            },
+            {
+                "name": "m_vecAbsOrigin",
+                "value": "0x208"
+            }
+        ]
+    }
+}
